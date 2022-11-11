@@ -7,3 +7,4 @@ for num in numbers:
     num_sum += num
 
 print(num_sum)
+print(num_sum)
